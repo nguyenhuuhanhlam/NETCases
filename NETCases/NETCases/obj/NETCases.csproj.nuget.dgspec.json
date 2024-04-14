@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\NETCases.csproj": {}
+    "/Users/nguyenhuuhanhlam/Devs/Repos/NETCases/NETCases/NETCases/NETCases.csproj": {}
   },
   "projects": {
-    "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\NETCases.csproj": {
+    "/Users/nguyenhuuhanhlam/Devs/Repos/NETCases/NETCases/NETCases/NETCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\NETCases.csproj",
+        "projectUniqueName": "/Users/nguyenhuuhanhlam/Devs/Repos/NETCases/NETCases/NETCases/NETCases.csproj",
         "projectName": "NETCases",
-        "projectPath": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\NETCases.csproj",
-        "packagesPath": "C:\\Users\\NHHL\\.nuget\\packages\\",
-        "outputPath": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\",
+        "projectPath": "/Users/nguyenhuuhanhlam/Devs/Repos/NETCases/NETCases/NETCases/NETCases.csproj",
+        "packagesPath": "/Users/nguyenhuuhanhlam/.nuget/packages/",
+        "outputPath": "/Users/nguyenhuuhanhlam/Devs/Repos/NETCases/NETCases/NETCases/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NHHL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nguyenhuuhanhlam/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

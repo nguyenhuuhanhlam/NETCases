@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETCases", "NETCases\NETCases.csproj", "{40D1801B-1C84-4DF8-A967-1229921FB58C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridNETCases", "HybridNETCases\HybridNETCases.csproj", "{7C37CDCD-7BDF-44DE-B21B-8A0085141EE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40D1801B-1C84-4DF8-A967-1229921FB58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D1801B-1C84-4DF8-A967-1229921FB58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D1801B-1C84-4DF8-A967-1229921FB58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C37CDCD-7BDF-44DE-B21B-8A0085141EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C37CDCD-7BDF-44DE-B21B-8A0085141EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C37CDCD-7BDF-44DE-B21B-8A0085141EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C37CDCD-7BDF-44DE-B21B-8A0085141EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
