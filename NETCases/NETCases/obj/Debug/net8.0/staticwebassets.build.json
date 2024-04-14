@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "NcAoNhAS/i4L/9kQhzKRtTB7Q/4w7V9OE+5sCzX/o+g=",
+  "Source": "NETCases",
+  "BasePath": "_content/NETCases",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NETCases\\wwwroot",
+      "Source": "NETCases",
+      "ContentRoot": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\wwwroot\\",
+      "BasePath": "_content/NETCases",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NETCases.styles.css",
+      "SourceId": "NETCases",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/NETCases",
+      "RelativePath": "NETCases.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NETCases.styles.css"
+    },
+    {
+      "Identity": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NETCases.bundle.scp.css",
+      "SourceId": "NETCases",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/NETCases",
+      "RelativePath": "NETCases.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NETCases.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\wwwroot\\app.css",
+      "SourceId": "NETCases",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\wwwroot\\",
+      "BasePath": "_content/NETCases",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

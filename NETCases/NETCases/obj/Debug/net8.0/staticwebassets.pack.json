@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NETCases.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NETCases.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Devs\\Repos\\NETCases\\NETCases\\NETCases\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NETCases.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NETCases.props",
+      "PackagePath": "build\\NETCases.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NETCases.props",
+      "PackagePath": "buildMultiTargeting\\NETCases.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NETCases.props",
+      "PackagePath": "buildTransitive\\NETCases.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
